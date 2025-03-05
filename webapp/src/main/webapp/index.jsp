@@ -132,7 +132,7 @@
 
     <h1>Thank You</h1>
     <br>
-    <h2>Happy Learning. See You Again.</h2>
+    <h3>Happy Learning. See You Again.</h3>
   </form>
 
 </body>
